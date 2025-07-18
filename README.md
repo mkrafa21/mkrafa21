@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/stickers/GitHub-transparent-UCQ5LookOT2ufbsGiT"  />
+<img align="right" height="150" src="https://octodex.github.com/manufacturetocat/"  />
 
 ###
 
