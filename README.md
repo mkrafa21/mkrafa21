@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Me chamo Rafael SUlva</h2>
+<h2 align="left">Hi 👋! Me chamo Rafael Silva, estou iniciando uma jornada aprendendo sobre dados e inserindo este aprendizado na rotina de trabalho</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://octodex.github.com/manufacturetocat/"  />
+<img align="right" height="150" src="https://octodex.github.com/manufacturetocat/"/>
 
 ###
 
