@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Me chamo Rafael Silva, estou iniciando uma jornada aprendendo sobre dados e inserindo este aprendizado na rotina de trabalho</h2>
+<h2 align="left">Olá 👋! Me chamo Rafael Silva, estou iniciando uma jornada aprendendo sobre dados e inserindo este aprendizado na rotina de trabalho</h2>
 
 ###
 
